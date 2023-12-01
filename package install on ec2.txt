@@ -1,0 +1,9 @@
+package install on ec2
+
+sudo yum update -y
+sudo yum install python3-pip -y
+sudo yum install python3-requests -y #not necessary but error occur then
+sudo pip3 install --ignore-installed apache-airflow pandas s3fs tweepy #--ignore-installed bcoz sometimes already satisfied error occurs so
+
+
+install these on ec2 through terminal after connecting ec2 to local machine using ssh on ec2 connect

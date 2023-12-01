@@ -1,0 +1,16 @@
+
+
+airflow
+ Login with username: admin  password:   you will get this when airflow standalone on ec2 
+
+
+
+you will get this from twitter api after sign up to twitter api-
+Wxxxxxxxxxxxxxxxxxxxxx                        api key is access key 
+
+k5xxxxxxxxxxxxxxxxxxxxxxxx  api key secret is access secret
+
+29xxxxxxxxxxxxxxxxxxxxxxxxx       acces token are consumer 
+
+nvxxxxxxxxxxxxxxxxxxxxxxxxx           acess token secret is consumer secret
+
