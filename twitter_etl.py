@@ -7,10 +7,10 @@ import s3fs
 def run_twitter_etl():
 
 
-    access_key = "WcTqgRxbKGSw2NzxFwCDZZWLf"  #api key
-    access_secret = "k5LYTsWGq5JQ8IDPRL30mCavipwMxxT2dnrJK2FAhJ0qSq8nEd"  #api key secret
-    consumer_key = "2956253635-BbebR9oCx5Ipu75LroSzN9VPvA9yS0nVoEX9NVn"  #acces token
-    consumer_secret = "wBDCzmGlzzLTpUbZBmsnNV3zTmr4iYlBnkqfU3HrNSvjT"    #acees token secret
+    access_key = "XXXXXXXXXXX"  #api key
+    access_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  #api key secret
+    consumer_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  #acces token
+    consumer_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"    #acees token secret
      
 
 
